@@ -14,8 +14,8 @@ This project analyzes customer churn for **Streamflix**, a fictional streaming s
 - **Recommendations**
 
 ## 📂 Project Files
-- 🎥 **[Presentation](./StreamFlix-Churn-Analysis-Dashboard.pdf) **
-- 📊 **[Dashboard](./StreamFlix’s-Project-Presentationntation.pdf) **
+- 🎥 [Presentation](./StreamFlix’s-Project-Presentationntation.pdf) 
+- 📊 [Dashboard](./StreamFlix-Churn-Analysis-Dashboard.pdf) 
 
 ## 🛠 Tools Used
 - **Power BI** (for data visualization and dashboard creation)
